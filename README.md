@@ -1,1 +1,2 @@
 My first pipeline. Built a scrappy version of he K-Nearest-Neighbors classifier which can predict with a similar accuracy as SciKitLearn’s KNeighbors and DecisionTree classifiers on this specific dataset.
+These were built following Google Developers' tutoorial and Sentdex youtube channel
